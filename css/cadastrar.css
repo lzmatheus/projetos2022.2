@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:Arial;
+	
+}
+
+.container h2{
+
+color: #fff;
+text-align: center;
+font-size: 30px;
+font-family: tahoma;
+
+}
+
+.container div#forme{
+	width: 50px;
+}
+	
+
+
+.main-form{
+	width: auto;
+	height: auto;
+	/* background-color:#232526; */
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+	padding: 0;
+	/* padding-right: 60px;
+	 */
+	
+}
+
+
+
+.main-form .forme{
+
+	padding-bottom: 10px;
+
+
+}
+
+.main-form .forme label{
+	width: 74%;
+    height: 25px;
+    margin-left: 50px;
+    background-color: white;
+	
+	
+} 
+
+
+
+.main-form .forme label input{
+	margin-left: 30px;
+}
+
+
+.button{
+	color: white;
+	background-color:#535353;
+	width: 27%;
+	height: 55px;
+		
+
+}
+.button:hover{
+	color:white;
+	background-color:#485563;
+	cursor:pointer;
+
+
+
+
+
+}
+
+
+.main-form .forme input{
+
+	width: 40%;
+	    height: 50px;
+	    margin-right: 20px;
+	    margin-bottom: 20px;
+		border: 1px solid #dad9d9;
+		padding-left: 10px;
+		color: #7b7979;
+		font-size: 22px;
+		font-weight: lighter;
+
+
+
+
+}

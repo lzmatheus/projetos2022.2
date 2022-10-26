@@ -1,0 +1,91 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:Arial;
+	
+}
+
+
+	
+
+
+.main-form{
+	width: auto;
+	height: auto;
+	/* background-color:#232526; */
+	margin: auto;
+	margin-top: 50px;
+	text-align: center;
+	padding: 0;
+	/* padding-right: 60px;
+	 */
+	
+}
+
+
+
+.main-form .forme{
+
+	padding-bottom: 10px;
+
+
+}
+
+/* .main-form .forme label{
+	
+	display: block;
+	/* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+	
+	
+	
+	
+	/* } */ 
+
+
+
+/* .main-form .forme label input{
+	padding: 2px;
+	
+	
+
+} */
+.main-form .forme1 input:hover{
+	color:white;
+	background-color:#485563;
+	cursor:pointer;
+
+
+
+
+
+}
+
+.button{
+	color: white;
+	background-color:black;
+	width: 27%;
+	height: 55px;
+		
+
+}
+
+
+.main-form .forme input{
+
+	width: 40%;
+	    height: 50px;
+	    margin-right: 20px;
+	    margin-bottom: 20px;
+		border: 1px solid #dad9d9;
+		padding-left: 10px;
+		color: #7b7979;
+		font-size: 22px;
+		font-weight: lighter;
+
+
+
+
+}

@@ -1,0 +1,29 @@
+
+body{
+    background-color: #2C1C5C;
+}
+
+
+
+#cont-produto{
+    margin-top: 60px;
+}
+.titulo{
+    text-align: left;
+}
+.texto{
+    text-align: left;
+}
+.botao{
+float: left;
+text-align: center;
+    width: 120px;
+    height: 40px;
+    text-decoration: none;
+    color: #707073;
+    background-color:#EEEEF2 ;
+    font-family: roboto;
+    font-size: 22px;
+    border-radius: 2px;
+}
+

@@ -1,0 +1,104 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:arial;
+	
+}
+
+.container{
+	width: auto;
+	height: 680px;
+	background-color: #222;
+	margin: auto;
+}
+#bloco1{
+	/* width: 450px;
+	height: 2700px; */
+	background-color: purple;
+	margin-left: 30px;
+	margin-top: 20px;
+	float: left;
+}
+
+
+
+#bloco1 .imagens{
+	width: 450px;
+	height: 385px;
+	background-color:orange;
+
+}
+
+ #bloco2{
+
+	/* width: 450px;
+	height:2700px; */
+	background-color: beige;
+	margin-right: 30px;
+	margin-top: 10px;
+
+	
+	float: right;
+
+}
+
+#bloco2 h2 {
+	color:white;
+	font-weight: lighter;
+	font-size: 28px;
+}
+
+#bloco2 .textopontos {
+	width: 450px;
+	height: auto;
+	background-color: #222;
+
+
+}
+
+#bloco2 .textopontos  P .text{
+	color: white;
+	
+	
+}
+
+#bloco2 .textopontos .maior{
+	font-size: 25px;
+	color: orange;
+	padding: 0;
+	
+}
+
+span{
+	/* background-color: blueviolet; */
+	color:white;
+	font-size: 20px;
+	
+	
+}
+
+ 
+
+.textopontos p {
+	background-color:  #222;
+	color: white;
+	font-size: 15px;
+	padding: 0;
+    text-decoration: none;
+	transition: 1s;
+}
+
+
+.formulario label f.orm-control #produtos-quantidade-itens {
+	color: black;
+	
+}
+
+.button .btn btn-success col-md-12{
+
+	color:#222;
+	width: 200px;
+}
